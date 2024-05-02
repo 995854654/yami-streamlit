@@ -1,0 +1,4 @@
+[server]
+port=9958
+[theme]
+base="light"
